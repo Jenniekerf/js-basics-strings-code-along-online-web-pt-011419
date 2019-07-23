@@ -1,3 +1,3 @@
 // Write your code in this file!
-const currentUser = 'anonymous';
-const welcomeMessage = 'Welcome to Flatbook, currentUser';
+const currentUser = 'Jan the Cat';
+const welcomeMessage = 'Welcome to Flatbook, ' + currentUser;
